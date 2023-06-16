@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.06b88cda.css",
-    "main.js": "/Portfolio/static/js/main.1f007d06.js",
+    "main.css": "/Portfolio/static/css/main.e7839b6c.css",
+    "main.js": "/Portfolio/static/js/main.65b33d2c.js",
     "static/media/portfolio-img.png": "/Portfolio/static/media/portfolio-img.6c2697ec06ca1381aa10.png",
     "static/media/Fresher_FE_CV.pdf": "/Portfolio/static/media/Fresher_FE_CV.6d22c4327962820dd095.pdf",
     "static/media/pj_2.jpg": "/Portfolio/static/media/pj_2.902e24e8f254a2de3274.jpg",
@@ -12,11 +12,11 @@
     "static/media/avatar.jpg": "/Portfolio/static/media/avatar.cec5c9f9282b8f0c8d46.jpg",
     "static/media/Cat2.png": "/Portfolio/static/media/Cat2.61a57dcd21c56f44d25b.png",
     "index.html": "/Portfolio/index.html",
-    "main.06b88cda.css.map": "/Portfolio/static/css/main.06b88cda.css.map",
-    "main.1f007d06.js.map": "/Portfolio/static/js/main.1f007d06.js.map"
+    "main.e7839b6c.css.map": "/Portfolio/static/css/main.e7839b6c.css.map",
+    "main.65b33d2c.js.map": "/Portfolio/static/js/main.65b33d2c.js.map"
   },
   "entrypoints": [
-    "static/css/main.06b88cda.css",
-    "static/js/main.1f007d06.js"
+    "static/css/main.e7839b6c.css",
+    "static/js/main.65b33d2c.js"
   ]
 }
