@@ -1,24 +1,25 @@
-import logo from './logo.svg';
+import { useState, createContext } from 'react'
 import './App.css';
+import { Background, Header, Navbar, About, Project, Skill, Contact, Footer } from './Components/import.js';
 
+
+export const topContext = createContext()
 function App() {
+  const [componentTop, setComponentTop] = useState([{aboutTop : 0}, {projectTop : 0}, {skillTop : 0}, {contactTop : 0}])
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <topContext.Provider value = {[componentTop, setComponentTop]}>
+      <div className="App">
+        <Background />
+        <Header />
+        <Navbar result = {componentTop}/>
+        <About />
+        <Project />
+        <Skill />
+        <Contact />
+        <Footer/>
+      </div>
+    </topContext.Provider>
   );
 }
 
