@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.06b88cda.css",
+    "main.js": "/Portfolio/static/js/main.1f007d06.js",
+    "static/media/portfolio-img.png": "/Portfolio/static/media/portfolio-img.6c2697ec06ca1381aa10.png",
+    "static/media/Fresher_FE_CV.pdf": "/Portfolio/static/media/Fresher_FE_CV.6d22c4327962820dd095.pdf",
+    "static/media/pj_2.jpg": "/Portfolio/static/media/pj_2.902e24e8f254a2de3274.jpg",
+    "static/media/pj_3.jpg": "/Portfolio/static/media/pj_3.5b8986b658937be20efb.jpg",
+    "static/media/bg2.jpg": "/Portfolio/static/media/bg2.e6fe0abcb2a72bd51eee.jpg",
+    "static/media/pj_4.jpg": "/Portfolio/static/media/pj_4.a12a47ea9b1d2c943f86.jpg",
+    "static/media/pj_1.jpg": "/Portfolio/static/media/pj_1.a95257e733927911081c.jpg",
+    "static/media/avatar.jpg": "/Portfolio/static/media/avatar.cec5c9f9282b8f0c8d46.jpg",
+    "static/media/Cat2.png": "/Portfolio/static/media/Cat2.61a57dcd21c56f44d25b.png",
+    "index.html": "/Portfolio/index.html",
+    "main.06b88cda.css.map": "/Portfolio/static/css/main.06b88cda.css.map",
+    "main.1f007d06.js.map": "/Portfolio/static/js/main.1f007d06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06b88cda.css",
+    "static/js/main.1f007d06.js"
+  ]
+}
