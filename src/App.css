@@ -187,3 +187,11 @@ h3 {
     width: var(--sec-w-sm);
   }
 }
+@media screen and (max-width: 740px){
+  .section_header span{
+    font-size: 1.2rem;
+  }
+  .section_header h3{
+    font-size: 2rem;
+  }
+}

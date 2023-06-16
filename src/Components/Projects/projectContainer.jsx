@@ -11,8 +11,8 @@ export const projects = [
         type: 'My Personal Website ',
         desc: ['Welcome to my personal website!'],
         technology: ['ReactJs', 'React Hook', 'Javascript', 'HTML', 'CSS', 'EmailJs'],
-        preview: 'https://melkior-nguyen.github.io/reddjt/',
-        srcCode: 'https://github.com/melkior-nguyen/reddjt',
+        preview: '#',
+        srcCode: 'https://github.com/melkior-nguyen/Portfolio',
         color: '#00ccff'
     },
     {
