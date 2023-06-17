@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import './header.css'
 import avatar from '../../assets/avatar.jpg'
 import Button from '../Button/Button'
-import CV from '../../assets/Fresher_FE_CV.pdf'
+import CV from '../../assets/NMH_FrontEnd.pdf'
 import logo from '../../assets/logo.png'
 
 import { AiFillInstagram, AiFillGithub } from 'react-icons/ai'
