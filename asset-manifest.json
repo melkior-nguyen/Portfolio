@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.e7839b6c.css",
-    "main.js": "/Portfolio/static/js/main.373ebf05.js",
+    "main.css": "/Portfolio/static/css/main.3595c9b0.css",
+    "main.js": "/Portfolio/static/js/main.292ee455.js",
     "static/media/portfolio-img.png": "/Portfolio/static/media/portfolio-img.6c2697ec06ca1381aa10.png",
-    "static/media/NMH_FrontEnd.pdf": "/Portfolio/static/media/NMH_FrontEnd.3010c3db3e6feb84f76a.pdf",
+    "static/media/NGUYENMINHHIEU-FE.pdf": "/Portfolio/static/media/NGUYENMINHHIEU-FE.9a15ea7e0a530ea4ec28.pdf",
     "static/media/pj_2.jpg": "/Portfolio/static/media/pj_2.902e24e8f254a2de3274.jpg",
     "static/media/pj_3.jpg": "/Portfolio/static/media/pj_3.5b8986b658937be20efb.jpg",
     "static/media/bg2.jpg": "/Portfolio/static/media/bg2.e6fe0abcb2a72bd51eee.jpg",
@@ -12,11 +12,11 @@
     "static/media/avatar.jpg": "/Portfolio/static/media/avatar.cec5c9f9282b8f0c8d46.jpg",
     "static/media/Cat2.png": "/Portfolio/static/media/Cat2.61a57dcd21c56f44d25b.png",
     "index.html": "/Portfolio/index.html",
-    "main.e7839b6c.css.map": "/Portfolio/static/css/main.e7839b6c.css.map",
-    "main.373ebf05.js.map": "/Portfolio/static/js/main.373ebf05.js.map"
+    "main.3595c9b0.css.map": "/Portfolio/static/css/main.3595c9b0.css.map",
+    "main.292ee455.js.map": "/Portfolio/static/js/main.292ee455.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7839b6c.css",
-    "static/js/main.373ebf05.js"
+    "static/css/main.3595c9b0.css",
+    "static/js/main.292ee455.js"
   ]
 }
