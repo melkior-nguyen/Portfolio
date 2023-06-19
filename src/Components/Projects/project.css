@@ -214,4 +214,7 @@
     .project_section{
         width: 100%;
     }
+    .project_card-back span{
+        font-size: 0.9rem;
+    }
 }
