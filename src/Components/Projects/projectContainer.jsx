@@ -3,6 +3,8 @@ import tgdd from '../../assets/pj_2.jpg'
 import gpt3 from '../../assets/pj_3.jpg'
 import calendar from '../../assets/pj_4.jpg'
 import portfolio from '../../assets/portfolio-img.png'
+import queuingsystem from '../../assets/queuingsystem.jpg'
+import insight from '../../assets/insight.jpg'
 
 export const projects = [
     {
@@ -14,6 +16,32 @@ export const projects = [
         preview: '#',
         srcCode: 'https://github.com/melkior-nguyen/Portfolio',
         color: '#00ccff'
+    },
+    {
+        src: queuingsystem,
+        name: 'Queuing System',
+        type: 'Hospital Magagement Website ',
+        desc: ['Provides statistics on the number of patient IDs issued through charts',
+            'Enables the management of Hospital equipment and services.',
+            'Allows for the issuance and tracking of patient identification numbers.',
+            'Offers user account management with varying levels of access permissions.'
+        ],
+        technology: ['TypeScript', 'ReactJs', 'Redux/ReduxToolkit', 'Google Firebase', 'Ant Design', 'React Icon'],
+        preview: 'https://melkior-nguyen.github.io/QueuingSystem/',
+        srcCode: 'https://github.com/melkior-nguyen/QueuingSystem',
+        color: '#ff7506'
+    },
+    {
+        src: insight,
+        name: 'Insight',
+        type: 'Ticket Sale Website ',
+        desc: ['Allow to view ticket sale data in a week-to-week format through charts',
+            'Show current ticket sales in real-time, enabling filtering and sorting ticket listings based on various criteria.'
+        ],
+        technology: ['TypeScript', 'ReactJs', 'Redux/ReduxToolkit', 'Google Firebase', 'Ant Design', 'React Icon'],
+        preview: 'https://melkior-nguyen.github.io/InSight/',
+        srcCode: 'https://github.com/melkior-nguyen/InSight',
+        color: '#4f75ff'
     },
     {
         src: reddit,
@@ -66,5 +94,5 @@ export const projects = [
         srcCode: 'https://github.com/melkior-nguyen/calendar-todo',
         color: '#151983'
     },
-    
+
 ]

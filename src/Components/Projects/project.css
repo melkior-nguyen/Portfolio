@@ -158,7 +158,8 @@
 
 .project_card-front img {
     height    : 100%;
-    object-fit: contain;
+    width     : 100%;
+    object-fit: cover;
 }
 
 .project_card-back {
@@ -211,10 +212,11 @@
 }
 
 @media screen and (max-width: 900px) {
-    .project_section{
+    .project_section {
         width: 100%;
     }
-    .project_card-back span{
+
+    .project_card-back span {
         font-size: 0.9rem;
     }
 }

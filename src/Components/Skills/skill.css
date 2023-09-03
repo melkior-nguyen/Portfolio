@@ -1,17 +1,18 @@
 #skills {
-    display: flex;
-    flex-direction: column;
+    display        : flex;
+    flex-direction : column;
     justify-content: center;
-    align-items: center;
+    align-items    : center;
 }
+
 .skills_container {
-    margin-bottom: 2rem;
-    padding: 2rem 10rem;
-    width    : 90%;
-    display  : flex;
-    gap: 4rem;
-    flex-wrap: wrap;
+    margin-bottom  : 2rem;
+    padding        : 2rem;
+    width          : 90%;
+    display        : flex;
+    gap            : 4rem;
+    flex-wrap      : wrap;
     justify-content: center;
-    align-items: center;
-    border-radius: 1rem;
+    align-items    : center;
+    border-radius  : 1rem;
 }
